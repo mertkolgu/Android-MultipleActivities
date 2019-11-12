@@ -1,2 +1,1 @@
-# android-multiple-activities
-Android Multiple Activities
+# Android Multiple Activities
