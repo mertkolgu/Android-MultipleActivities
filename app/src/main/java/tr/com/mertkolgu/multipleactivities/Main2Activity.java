@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class Main2Activity extends AppCompatActivity {
+
     TextView textView;
 
     @Override
